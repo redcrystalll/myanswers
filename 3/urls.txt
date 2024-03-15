@@ -1,0 +1,3 @@
+wondrous-churros-fe7c59.netlify.app
+this is the subpart of my previous project
+developed by Next.js
